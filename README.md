@@ -1,3 +1,4 @@
+![logo](https://github.com/Anurag-Rastogi/Anurag-Rastogi/blob/main/bannerImage.png)
 <h1 align="center">Hi 👋, I'm Anurag Rastogi</h1>
 <h3 align="center">A passionate Full Stack developer from India</h3>
 
